@@ -1,3 +1,7 @@
 telebot
 spotipy
 flask
+pytelegrambotapi
+python-dotenv
+requests
+langdetect
